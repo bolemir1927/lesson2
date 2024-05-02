@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="313807f8-fac1-4d16-bfee-edf720f92961" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/answer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/answer2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesan1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/answer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.answer1.executor": "Run",
+    "Application.answer2.executor": "Run",
     "Application.lesan1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -57,9 +58,16 @@
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.answer1">
+  <component name="RunManager" selected="Application.answer2">
     <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="answer1" />
+      <module name="lesson2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="answer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="answer2" />
       <module name="lesson2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.answer2" />
         <item itemvalue="Application.answer1" />
         <item itemvalue="Application.lesan1" />
       </list>
@@ -96,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714652894972</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1714660428950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714660428950</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

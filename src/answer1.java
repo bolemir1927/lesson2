@@ -3,7 +3,7 @@ public class answer1 {
         int mounth = 14;
         if (mounth == 12 || mounth > 0 && mounth < 3){
             System.out.println("Зима");
-    } else if (mounth > 2 && mounth < 6) {
+        } else if (mounth > 2 && mounth < 6) {
             System.out.println("Весна");
         } else if (mounth > 5 && mounth < 9) {
             System.out.println("Лето");
