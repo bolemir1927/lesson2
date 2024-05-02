@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="313807f8-fac1-4d16-bfee-edf720f92961" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/answer3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/answer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/answer4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     "Application.answer1.executor": "Run",
     "Application.answer2.executor": "Run",
     "Application.answer3.executor": "Run",
+    "Application.answer4.executor": "Run",
     "Application.lesan1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -59,7 +59,7 @@
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.answer3">
+  <component name="RunManager" selected="Application.answer4">
     <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="answer1" />
       <module name="lesson2" />
@@ -81,6 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="answer4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="answer4" />
+      <module name="lesson2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lesan1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesan1" />
       <module name="lesson2" />
@@ -90,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.answer4" />
         <item itemvalue="Application.answer3" />
         <item itemvalue="Application.answer2" />
         <item itemvalue="Application.answer1" />
@@ -130,11 +138,20 @@
       <option name="project" value="LOCAL" />
       <updated>1714662163112</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0205">
+      <option name="closed" value="true" />
+      <created>1714671914109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714671914109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="0205" />
+    <option name="LAST_COMMIT_MESSAGE" value="0205" />
   </component>
 </project>
