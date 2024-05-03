@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="313807f8-fac1-4d16-bfee-edf720f92961" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/answer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/answer3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/answer4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/answer5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/answer6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/answer7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/answer8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +57,7 @@
     "Application.answer2.executor": "Run",
     "Application.answer3.executor": "Run",
     "Application.answer4.executor": "Run",
+    "Application.answer7.executor": "Run",
     "Application.answer8.executor": "Run",
     "Application.lesan1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -60,14 +67,7 @@
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.answer8">
-    <configuration name="answer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="answer1" />
-      <module name="lesson2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.answer4">
     <configuration name="answer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="answer2" />
       <module name="lesson2" />
@@ -89,6 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="answer7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="answer7" />
+      <module name="lesson2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="answer8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="answer8" />
       <module name="lesson2" />
@@ -98,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.answer8" />
         <item itemvalue="Application.answer4" />
+        <item itemvalue="Application.answer7" />
+        <item itemvalue="Application.answer8" />
         <item itemvalue="Application.answer3" />
         <item itemvalue="Application.answer2" />
-        <item itemvalue="Application.answer1" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714674664209</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="0205">
+      <option name="closed" value="true" />
+      <created>1714675438833</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714675438833</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

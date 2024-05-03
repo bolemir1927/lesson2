@@ -3,7 +3,7 @@ public class answer3 {
         int year = 1812;
         if (year%4 == 0)
             System.out.println(year + " Високосный");
-        else if (year%4 > 0)
+        else if (year%4 != 0)
             System.out.println(year + " Невисокосный");
         else
             System.out.println("Eror");
